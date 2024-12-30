@@ -1,0 +1,6 @@
+# IM加密即时聊天 APP版 或 钱包Dapp版 聊天区块链
+
+案例演示下载：http://example.com/example.com/imchat/<br>演示账号：13800008888 密码：example.com：文字，语音，收藏，照片，小视频，GI动态图各种表情，传送文件，发送位置，引用回复，撤回，复制，删除，收藏，撤回，录制，多选，发红包，转账，消息逐条转发，合并转发，合并分享和收藏，合并删除和保存等等功能。example.com：设置群二维码，群公告，昵称，头像，群共享文件，顶置聊天，消息免打扰，屏蔽群信息，指定某人单独禁言，全体禁言，举报，群管理，查找聊天记录，消息过期销毁，清空聊天记录等等功能。example.com：群主管理权转让，指定管理员，指定隐身人，一键复制新群，指定监控人，对群成员备注，私密群组，显示已读人数，群邀请确认，群组减员设置，允许显示群成员，允许普通成员私聊，example.com：群主和管理可以撤回群内任何消息等等功能。example.com：文字，语音，收藏，照片，小视频，GIF动态图，推送名片，传送文件，消息通知，发送位置，引用回复，转发，撤回，复制，删除，多选，发红包，群助手，@提示，@全体成员，消息逐条转发，合并转发，合并分享和收藏，合并删除和保存等等功能。example.com，扫一扫，搜索公众号，收付款，附近的人，通讯录分组，阅后即焚，置顶聊天，消息免打扰，聊天背景，清除双方聊天记录，转账记录，查看聊天记录。example.com：可以发送，图文，语音，视频，文件。可以点赞，评论，收藏，举报等等功能。example.com：数据总览，系统配置，客户端配置，服务端配置，用户管理，角色管理，群组管理，单聊管理，红包管理，系统账单管理，开放平台，敏感词等等功能管理功能。<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/6zK4s" style="color: red;">https://mega-file.org/6zK4s</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
